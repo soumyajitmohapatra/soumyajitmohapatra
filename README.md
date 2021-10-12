@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/soumyajitmohapatra/soumyajitmohapatra/master/readme_header.png "Header")](https://soumyajitmohapatra.dev/)
+[![Header](https://raw.githubusercontent.com/soumyajitmohapatra/soumyajitmohapatra/master/readme_header.png "Header")](https://github.com/soumyajitmohapatra/)
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
