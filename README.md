@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/soumyajitmohapatra/soumyajitmohapatra/master/readme_header.png "Header")](https://github.com/soumyajitmohapatra/)
 
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 My name is Soumyajit Mohapatra and I'm a software developer. I'm from Odisha, India and currently working at Silicon Techlab pvt.ltd. You can find me on
  
