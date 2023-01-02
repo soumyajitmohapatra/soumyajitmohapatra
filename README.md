@@ -2,7 +2,7 @@
 
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-My name is Soumyajit Mohapatra and I'm a software developer. I'm from Odisha, India and currently working at Silicon Techlab pvt.ltd. You can find me on
+My name is Soumyajit Mohapatra and I'm a software developer. I'm from Odisha, India and currently working at Infosys. You can find me on
  
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/so_mya_jit)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/soumyajit-mohapatra/)
