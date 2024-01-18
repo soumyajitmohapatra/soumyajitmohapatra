@@ -18,7 +18,7 @@ My name is Soumyajit Mohapatra and I'm a software developer. I'm from Odisha, In
 </a>
 
 
-<a href="https://github.com/soumyajitmohapatra/ecommerce">
+<a href="https://github.com/soumyajitmohapatra/DEMO_TEMPLATE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=soumyajitmohapatra&repo=ecommerce&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&theme=dark" />
 </a>   
    
